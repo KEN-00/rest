@@ -1,0 +1,12 @@
+server:
+  servlet:
+    context-path: "/test"
+
+  port: 8888
+
+#spring:
+#  datasource:
+#    username: "username"
+#    password: "password"
+#    url: ""
+
